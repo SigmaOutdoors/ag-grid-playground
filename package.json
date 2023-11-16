@@ -1,0 +1,12 @@
+{
+  "name": "ag-grid-serv-side-grouping",
+  "description": "NOTE: This package.json file is solely used by Plunker to look up type definitions.",
+  "dependencies": {
+    "@angular/core": "^14",
+    "@angular/platform-browser": "^14",
+    "ag-grid-angular": "^30.2.1",
+    "ag-grid-community": "^30.2.1",
+    "ag-grid-enterprise": "^30.2.1"
+  },
+  "keywords": []
+}
